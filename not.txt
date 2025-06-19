@@ -1,0 +1,25 @@
+PROJE KONUSU: 
+Bir veri kümesi kullanarak basit ve çoklu lineer regresyon modelleri kurma
+
+Basit Lineer Regresyon:
+Bağımsız değişken: BMI
+Modeli eğitme ve R² skorunu yadırma
+
+Çoklu Lineer Regresyon:
+Tüm bağımsız değişkenleri kullanarak bir model kurma
+R² skorunu yazdırma ve basit modelle karşılaştırma
+
+Hata Metrikleri:
+MAE (Ortalama mutlak hata)
+MSE (Ortalama kare hata)
+
+Yorumlama: Hangi model daha başarılı? Neden? R² değerleri ne ifade ediyor?
+
+
+Denetimli Öğrenme (Supervised Learning):
+modelin eğitim sırasında doğru cevaplarla eğitildiği bir öğrenme türüdür. 
+iki türü var; Lineer regresyon , Lojistik regresyon
+
+Lineer regresyon, bir bağımlı (hedef) değişken ile bir veya daha fazla bağımsız (girdi) değişken arasındaki doğrusal ilişkiyi modelleyen istatistiksel bir tekniktir.
+Tahmin ettiğin şey bir sayıdır. (örneğin: “Ne kadar?”)
+Amaç: Bağımsız değişken(ler) kullanılarak, hedef değişkenin değerini tahmin etme
